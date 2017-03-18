@@ -5,7 +5,7 @@ import android.view.Window;
 /**
  * Created by madlax on 2017/02/15.
  */
-
+///test
 public class ImageEx extends Activity{
         //アクティビティ起動時に呼ばれる
     @Override
