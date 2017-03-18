@@ -13,6 +13,5 @@ public class ImageEx extends Activity{
         super.onCreate(bundle);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(new ImageView(this));
-
     }
 }
